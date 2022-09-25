@@ -2,4 +2,5 @@
     <string name="app_name">BounceBallAnimation</string>
     <string name="bounce">Bounce</string>
     <string name="ball_image">Ball Image</string>
+    <string name="floor_image">Floor Image</string>
 </resources>
